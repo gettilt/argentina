@@ -1,0 +1,590 @@
+{
+    "AGRO": {
+        "chat_gpt": "Adecoagro, an agricultural company, will benefit from increased agricultural exports and market liberalization. Adecoagro, an agricultural company, will benefit from increased agricultural exports and market liberalization.",
+        "claude": "Adecoagro is a leading agricultural company in Argentina and other South American countries, with operations in farming, sugar, ethanol, and dairy production. The company could benefit from increased global demand for food and renewable fuels and from potential reforms to boost agricultural exports.",
+        "search_articles": [
+            {
+                "url": "https://www.tradingview.com/markets/stocks-argentina/market-movers-gainers/",
+                "title": "Top Gaining Argentine Stocks - TradingView",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.investing.com/equities/argentina/most-active-stocks",
+                "title": "Most Active Argentina Stocks - Investing.com",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.marketwatch.com/investing/stock/agro?countrycode=ar",
+                "title": "Agrometal S.A. Stock Quote (Argentina: Buenos Aires)",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "BBAR": {
+        "chat_gpt": "BBVA Banco Frances, a major bank, will see growth from increased financial activity and market confidence.",
+        "claude": "Banco BBVA Argentina is a major private bank in Argentina, with a focus on retail and corporate banking. The bank could benefit from increased demand for credit and other financial services as businesses expand and consumers gain confidence in the economy.",
+        "search_articles": [
+            {
+                "url": "https://www.investing.com/equities/argentina/most-active-stocks",
+                "title": "Most Active Argentina Stocks - Investing.com",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://companiesmarketcap.com/argentina/largest-companies-in-argentina-by-market-cap/",
+                "title": "Largest companies of Argentina by market capitalization",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.cnbc.com/2024/05/07/druckenmiller-says-he-bought-five-argentinian-stocks-praises-javier-mileis-policies.html",
+                "title": "Druckenmiller says he bought five Argentinian stocks ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "BMA": {
+        "chat_gpt": "Banco Macro, another major Argentinian bank, will benefit from increased economic activity and financial services demand.",
+        "claude": "Banco Macro is one of the largest private banks in Argentina, with a strong presence in the country's interior provinces. The bank is well-positioned to benefit from increased economic activity and demand for banking services as the country embraces free-market policies.",
+        "search_articles": [
+            {
+                "url": "https://www.tradingview.com/markets/stocks-argentina/market-movers-gainers/",
+                "title": "Top Gaining Argentine Stocks - TradingView",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.investing.com/equities/argentina/most-active-stocks",
+                "title": "Most Active Argentina Stocks - Investing.com",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://companiesmarketcap.com/argentina/largest-companies-in-argentina-by-market-cap/",
+                "title": "Largest companies of Argentina by market capitalization",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/JonahLupton/status/1728064113316921572",
+                "text": "My entire watchlist is being dominated by the Argentina/South American stocks today... $YPF $GGAL $BMA $CEPU $TGS $BBAR $PAM \n\nI don't know anything about these companies so it's hard to feel comfortable trading them, I'm trying to not let the FOMO kick in.",
+                "username": "JonahLupton",
+                "user_url": "https://twitter.com/JonahLupton",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1683456114443137025/pix1OdaR_normal.jpg",
+                "date": "2023-11-24T14:52:45Z"
+            },
+            {
+                "url": "https://twitter.com/DuckPond_VR/status/1791346053716857172",
+                "text": "Howard Marks is betting on Argentina \ud83c\udde6\ud83c\uddf7. He has 3% of his portfolio invested in these companies \u2b07\ufe0f\n\n$VIST - Vista Oil &amp; Gas, S.A.B. de C.V.\n$TEO - Telecom Argentina S.A. \n$PAM - Pampa Energ\u00eda S.A. \n$YPF - YPF S.A.\n$BMA - Banco Macro S.A.",
+                "username": "DuckPond_VR",
+                "user_url": "https://twitter.com/DuckPond_VR",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1724130840202903552/EdWBzhRM_normal.jpg",
+                "date": "2024-05-17T05:52:35Z"
+            },
+            {
+                "url": "https://twitter.com/geldvos/status/1789036774657831224",
+                "text": "Since #Milei won the elections to be the next president of #Argentina, their stock market has been on fire \ud83d\udd25\n\n$PAM $BMA $YPF $LOMA $CRESY $TEO $CEPU https://t.co/72nBfutNAd",
+                "username": "geldvos",
+                "user_url": "https://twitter.com/geldvos",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1679208502152032297/n5Umsa6p_normal.jpg",
+                "date": "2024-05-10T20:56:20Z"
+            }
+        ],
+        "experts": []
+    },
+    "CEPU": {
+        "chat_gpt": "Central Puerto, a power generation company, stands to gain from increased demand for electricity and energy infrastructure investments. Central Puerto, a power generation company, stands to gain from increased demand for electricity and energy infrastructure investments.",
+        "claude": "Central Puerto is a leading private electricity generation company in Argentina, with a mix of thermal and renewable energy assets. The company could benefit from increased demand for electricity and potential reforms to encourage private investment in the sector.",
+        "search_articles": [
+            {
+                "url": "https://www.investing.com/equities/argentina/most-active-stocks",
+                "title": "Most Active Argentina Stocks - Investing.com",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://companiesmarketcap.com/argentina/largest-companies-in-argentina-by-market-cap/",
+                "title": "Largest companies of Argentina by market capitalization",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.investing.com/equities/argentina/most-active-stocks",
+                "title": "Most Active Argentina Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/JonahLupton/status/1728064113316921572",
+                "text": "My entire watchlist is being dominated by the Argentina/South American stocks today... $YPF $GGAL $BMA $CEPU $TGS $BBAR $PAM \n\nI don't know anything about these companies so it's hard to feel comfortable trading them, I'm trying to not let the FOMO kick in.",
+                "username": "JonahLupton",
+                "user_url": "https://twitter.com/JonahLupton",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1683456114443137025/pix1OdaR_normal.jpg",
+                "date": "2023-11-24T14:52:45Z"
+            },
+            {
+                "url": "https://twitter.com/EMdiggers/status/1728092180462362754",
+                "text": "What made fortunes when URSS fall? Regulated, crappy companies after regulation changed. \n\nEdenor, Pampa or CEPU should keep flying in Argentina\n\n$EDN $CEPU $PAM https://t.co/yydRpUY1bE",
+                "username": "EMdiggers",
+                "user_url": "https://twitter.com/EMdiggers",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1476877307491016712/RCHfshKP_normal.jpg",
+                "date": "2023-11-24T16:44:16Z"
+            },
+            {
+                "url": "https://twitter.com/geldvos/status/1789036774657831224",
+                "text": "Since #Milei won the elections to be the next president of #Argentina, their stock market has been on fire \ud83d\udd25\n\n$PAM $BMA $YPF $LOMA $CRESY $TEO $CEPU https://t.co/72nBfutNAd",
+                "username": "geldvos",
+                "user_url": "https://twitter.com/geldvos",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1679208502152032297/n5Umsa6p_normal.jpg",
+                "date": "2024-05-10T20:56:20Z"
+            }
+        ],
+        "experts": []
+    },
+    "CRESY": {
+        "chat_gpt": "Cresud, a leading agricultural and real estate company, stands to gain from increased foreign investment and economic growth. Cresud, a leading agricultural and real estate company, stands to gain from increased foreign investment and economic growth.",
+        "claude": "Cresud is a leading agricultural company in Argentina, with extensive land holdings and operations in crop production, cattle raising, and milk production. The company is well-positioned to benefit from increased global demand for agricultural products and the potential for higher exports under a more business-friendly government.",
+        "search_articles": [
+            {
+                "url": "https://www.nasdaq.com/articles/hurry-3-argentine-stocks-to-buy-before-the-new-president-takes-office",
+                "title": "Hurry! 3 Argentine Stocks to Buy Before the New President ...",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.tradingview.com/markets/stocks-argentina/market-movers-high-dividend/",
+                "title": "High-Dividend Yield Argentine Stocks - TradingView",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.cresud.com.ar/perfil_corporativo_inst.php?lng=en",
+                "title": "Corporate Profile",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/geldvos/status/1789036774657831224",
+                "text": "Since #Milei won the elections to be the next president of #Argentina, their stock market has been on fire \ud83d\udd25\n\n$PAM $BMA $YPF $LOMA $CRESY $TEO $CEPU https://t.co/72nBfutNAd",
+                "username": "geldvos",
+                "user_url": "https://twitter.com/geldvos",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1679208502152032297/n5Umsa6p_normal.jpg",
+                "date": "2024-05-10T20:56:20Z"
+            },
+            {
+                "url": "https://twitter.com/PPreungesheim/status/1728688257871773748",
+                "text": "@Robert46989257 Thanks, Robert. Yes, I noticed that most Argentina ADRs can also be bought via the exchanges in Germany. $YPF, $VIST, $PAM, $CRESY, $LOMA, $IRS, $CEPU, $TGS all look quite interesting. I don\u2019t know many names from Poland apart from Dino Polska. Avoiding the banks.",
+                "username": "PPreungesheim",
+                "user_url": "https://twitter.com/PPreungesheim",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1518146213882871810/i7jKzFCe_normal.png",
+                "date": "2023-11-26T08:12:52Z"
+            },
+            {
+                "url": "https://twitter.com/argy_investor/status/1734015631740080593",
+                "text": "@saxena_puru @saxena_puru buy argentinian stocks. With @JMilei as president Argentina will grow strong.\n$TGS $PAM $YPF $CEPU $CRESY $BMA $EDN",
+                "username": "argy_investor",
+                "user_url": "https://twitter.com/argy_investor",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1587722900718731264/P0S6QlNV_normal.jpg",
+                "date": "2023-12-11T01:01:57Z"
+            }
+        ],
+        "experts": []
+    },
+    "EDN": {
+        "chat_gpt": "Edenor, an electricity distribution company, will see growth from increased industrial activity and energy consumption. Edenor, an electricity distribution company, will see growth from increased industrial activity and energy consumption.",
+        "claude": "Edenor is the largest electricity distribution company in Argentina, serving the northern part of Buenos Aires. The company could benefit from increased demand for electricity and potential reforms to the tariff structure and regulatory framework.",
+        "search_articles": [
+            {
+                "url": "https://www.tradingview.com/markets/stocks-argentina/market-movers-gainers/",
+                "title": "Top Gaining Argentine Stocks - TradingView",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.investing.com/equities/argentina/most-active-stocks",
+                "title": "Most Active Argentina Stocks - Investing.com",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://companiesmarketcap.com/argentina/largest-companies-in-argentina-by-market-cap/",
+                "title": "Largest companies of Argentina by market capitalization",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "GGAL": {
+        "chat_gpt": "Grupo Financiero Galicia is a leading financial institution in Argentina, likely to see growth from a more robust and open economy.",
+        "claude": "Grupo Financiero Galicia is a leading financial services company in Argentina, offering banking, insurance, and asset management services. With the transition to a more capitalist economy, the demand for financial services is likely to increase, benefiting Grupo Financiero Galicia.",
+        "search_articles": [
+            {
+                "url": "https://www.investing.com/equities/argentina/most-active-stocks",
+                "title": "Most Active Argentina Stocks - Investing.com",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://companiesmarketcap.com/argentina/largest-companies-in-argentina-by-market-cap/",
+                "title": "Largest companies of Argentina by market capitalization",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.tradingview.com/markets/stocks-argentina/market-movers-high-dividend/",
+                "title": "High-Dividend Yield Argentine Stocks - TradingView",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/JonahLupton/status/1728064113316921572",
+                "text": "My entire watchlist is being dominated by the Argentina/South American stocks today... $YPF $GGAL $BMA $CEPU $TGS $BBAR $PAM \n\nI don't know anything about these companies so it's hard to feel comfortable trading them, I'm trying to not let the FOMO kick in.",
+                "username": "JonahLupton",
+                "user_url": "https://twitter.com/JonahLupton",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1683456114443137025/pix1OdaR_normal.jpg",
+                "date": "2023-11-24T14:52:45Z"
+            },
+            {
+                "url": "https://twitter.com/rpeker/status/1779129888890360293",
+                "text": "@SJosephBurns How much have you invested? You can either purchase Argentina's bonds or invest directly in equities $GGAL, $PAM, $YPF",
+                "username": "rpeker",
+                "user_url": "https://twitter.com/rpeker",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1663149170121748482/eXHVQ3mD_normal.jpg",
+                "date": "2024-04-13T12:49:54Z"
+            },
+            {
+                "url": "https://twitter.com/stockerblog/status/1726743232841941003",
+                "text": "Argentina Has a Libertarian President-Elect: How to Invest in Argentina \n\nhttps://t.co/L3jQwXTzvT \n\n#Argentina, $ARGT, $BMA, $GGAL, #JavierMilei, $PAM, $YPF #JavierMileiPresidente https://t.co/NQtmkZv2Mj",
+                "username": "stockerblog",
+                "user_url": "https://twitter.com/stockerblog",
+                "user_image_url": "https://pbs.twimg.com/profile_images/2354174480/5n6v4hw1knmvdh080wae_normal.jpeg",
+                "date": "2023-11-20T23:24:02Z"
+            }
+        ],
+        "experts": []
+    },
+    "IRS": {
+        "chat_gpt": "IRSA Inversiones y Representaciones, a real estate company, will benefit from a more stable and growing economy.",
+        "claude": "IRSA Inversiones y Representaciones is a leading real estate company in Argentina, with a portfolio of office buildings, shopping centers, and luxury hotels. The company could benefit from increased foreign investment and demand for high-quality real estate as the economy opens up.",
+        "search_articles": [
+            {
+                "url": "https://www.cresud.com.ar/perfil_corporativo_inst.php?lng=en",
+                "title": "Corporate Profile",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "LOMA": {
+        "chat_gpt": "Loma Negra, a leading cement producer, will benefit from increased construction and infrastructure projects. Loma Negra, a leading cement producer, will benefit from increased construction and infrastructure projects.",
+        "claude": "Loma Negra is the largest cement producer in Argentina, with a nationwide network of plants and distribution centers. The company could benefit from increased construction activity and infrastructure investment as the economy grows and foreign investment flows in.",
+        "search_articles": [
+            {
+                "url": "https://www.investing.com/equities/argentina/most-active-stocks",
+                "title": "Most Active Argentina Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "MELI": {
+        "chat_gpt": "MercadoLibre, an e-commerce giant in Latin America, will benefit from increased consumer spending and economic stability. MercadoLibre, an e-commerce giant in Latin America, will benefit from increased consumer spending and economic stability.",
+        "claude": "MercadoLibre is the largest e-commerce and fintech company in Argentina and Latin America, providing online marketplaces, payments, and logistics services. The company could benefit from increased online shopping and digital payments adoption as the economy modernizes and consumers embrace new technologies.",
+        "search_articles": [
+            {
+                "url": "https://companiesmarketcap.com/argentina/largest-companies-in-argentina-by-market-cap/",
+                "title": "Largest companies of Argentina by market capitalization",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "PAM": {
+        "chat_gpt": "Pampa Energia, a key player in Argentina's energy sector, stands to gain from deregulation and increased foreign investment.",
+        "claude": "Pampa Energ\u00eda is a major electricity generation and distribution company in Argentina, with a diverse portfolio of thermal, hydroelectric, and renewable energy assets. The company could benefit from increased demand for electricity as economic activity picks up and from potential reforms to the energy sector.",
+        "search_articles": [
+            {
+                "url": "https://www.nasdaq.com/articles/hurry-3-argentine-stocks-to-buy-before-the-new-president-takes-office",
+                "title": "Hurry! 3 Argentine Stocks to Buy Before the New President ...",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://companiesmarketcap.com/argentina/largest-companies-in-argentina-by-market-cap/",
+                "title": "Largest companies of Argentina by market capitalization",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/JonahLupton/status/1728064113316921572",
+                "text": "My entire watchlist is being dominated by the Argentina/South American stocks today... $YPF $GGAL $BMA $CEPU $TGS $BBAR $PAM \n\nI don't know anything about these companies so it's hard to feel comfortable trading them, I'm trying to not let the FOMO kick in.",
+                "username": "JonahLupton",
+                "user_url": "https://twitter.com/JonahLupton",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1683456114443137025/pix1OdaR_normal.jpg",
+                "date": "2023-11-24T14:52:45Z"
+            },
+            {
+                "url": "https://twitter.com/MartinsKrusts/status/1726659422922084698",
+                "text": "\ud83c\udde6\ud83c\uddf7\ud83d\udea8 Argentinian stock market exploded after friendly to our civilization president got elected. He is a big supporter of Israel and Ukraine and he shows it.\n\nI need to close some of my additional Pampa Energia shares after they jumped almost 20%. Argentina is on hype. $PAM $AGRO https://t.co/S7pUeWZYEE",
+                "username": "MartinsKrusts",
+                "user_url": "https://twitter.com/MartinsKrusts",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1731264261567946752/6vChICfS_normal.jpg",
+                "date": "2023-11-20T17:51:00Z"
+            },
+            {
+                "url": "https://twitter.com/CristianGeo7/status/1738255081315733530",
+                "text": "\ud83d\udee2\ufe0f\ud83c\udde6\ud83c\uddf7 Global Conflicts Stir Sleeping Energy Giant in South America. Argentina\u2019s Vaca Muerta shale field is among the megaprojects ramping up around the region. $YPF $VIST $PAM (Link de WSJ q no pide suscripci\u00f3n)\nhttps://t.co/NIrRx7grVO",
+                "username": "CristianGeo7",
+                "user_url": "https://twitter.com/CristianGeo7",
+                "user_image_url": "https://pbs.twimg.com/profile_images/954157494372388864/J3NmcmJF_normal.jpg",
+                "date": "2023-12-22T17:48:01Z"
+            }
+        ],
+        "experts": []
+    },
+    "SUPV": {
+        "chat_gpt": "Grupo Supervielle, a financial services company, will benefit from a more open and growing economy.",
+        "claude": "Grupo Supervielle is a diversified financial services company in Argentina, with operations in banking, insurance, and asset management. The company's focus on innovation and digital transformation could help it capitalize on the growth opportunities presented by the country's economic liberalization.",
+        "search_articles": [
+            {
+                "url": "https://www.investing.com/equities/argentina/most-active-stocks",
+                "title": "Most Active Argentina Stocks - Investing.com",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://companiesmarketcap.com/argentina/largest-companies-in-argentina-by-market-cap/",
+                "title": "Largest companies of Argentina by market capitalization",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.tradingview.com/markets/stocks-argentina/market-movers-high-dividend/",
+                "title": "High-Dividend Yield Argentine Stocks - TradingView",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "TEO": {
+        "chat_gpt": "Telecom Argentina, a telecommunications company, will see growth from increased demand for communication services.",
+        "claude": "Telecom Argentina is a leading telecommunications company in Argentina, providing fixed-line, mobile, and internet services. The company could benefit from increased demand for connectivity and digital services as the economy modernizes and businesses adopt new technologies.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "TGS": {
+        "chat_gpt": "Transportadora de Gas del Sur, a natural gas transportation company, will benefit from increased energy production and exports. Transportadora de Gas del Sur, a natural gas transportation company, will benefit from increased energy production and exports.",
+        "claude": "Transportadora de Gas del Sur is a major natural gas transportation and distribution company in Argentina, with a network of pipelines connecting key production areas to consumption centers. The company could benefit from increased natural gas production and demand as the energy sector is reformed and the economy grows.",
+        "search_articles": [
+            {
+                "url": "https://www.nasdaq.com/articles/hurry-3-argentine-stocks-to-buy-before-the-new-president-takes-office",
+                "title": "Hurry! 3 Argentine Stocks to Buy Before the New President ...",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://companiesmarketcap.com/argentina/largest-companies-in-argentina-by-market-cap/",
+                "title": "Largest companies of Argentina by market capitalization",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://en.wikipedia.org/wiki/Category:Oil_and_gas_companies_of_Argentina",
+                "title": "Category:Oil and gas companies of Argentina",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/JonahLupton/status/1728064113316921572",
+                "text": "My entire watchlist is being dominated by the Argentina/South American stocks today... $YPF $GGAL $BMA $CEPU $TGS $BBAR $PAM \n\nI don't know anything about these companies so it's hard to feel comfortable trading them, I'm trying to not let the FOMO kick in.",
+                "username": "JonahLupton",
+                "user_url": "https://twitter.com/JonahLupton",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1683456114443137025/pix1OdaR_normal.jpg",
+                "date": "2023-11-24T14:52:45Z"
+            },
+            {
+                "url": "https://twitter.com/PPreungesheim/status/1728688257871773748",
+                "text": "@Robert46989257 Thanks, Robert. Yes, I noticed that most Argentina ADRs can also be bought via the exchanges in Germany. $YPF, $VIST, $PAM, $CRESY, $LOMA, $IRS, $CEPU, $TGS all look quite interesting. I don\u2019t know many names from Poland apart from Dino Polska. Avoiding the banks.",
+                "username": "PPreungesheim",
+                "user_url": "https://twitter.com/PPreungesheim",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1518146213882871810/i7jKzFCe_normal.png",
+                "date": "2023-11-26T08:12:52Z"
+            },
+            {
+                "url": "https://twitter.com/argy_investor/status/1734015631740080593",
+                "text": "@saxena_puru @saxena_puru buy argentinian stocks. With @JMilei as president Argentina will grow strong.\n$TGS $PAM $YPF $CEPU $CRESY $BMA $EDN",
+                "username": "argy_investor",
+                "user_url": "https://twitter.com/argy_investor",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1587722900718731264/P0S6QlNV_normal.jpg",
+                "date": "2023-12-11T01:01:57Z"
+            }
+        ],
+        "experts": []
+    },
+    "TX": {
+        "chat_gpt": "Ternium, a steel manufacturer, will see growth from increased industrial activity and infrastructure development. Ternium, a steel manufacturer, will see growth from increased industrial activity and infrastructure development.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "VIST": {
+        "chat_gpt": "Vista Oil & Gas, an oil and gas company, stands to gain from increased energy production and market liberalization.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.investing.com/equities/argentina/most-active-stocks",
+                "title": "Most Active Argentina Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/CristianGeo7/status/1738255081315733530",
+                "text": "\ud83d\udee2\ufe0f\ud83c\udde6\ud83c\uddf7 Global Conflicts Stir Sleeping Energy Giant in South America. Argentina\u2019s Vaca Muerta shale field is among the megaprojects ramping up around the region. $YPF $VIST $PAM (Link de WSJ q no pide suscripci\u00f3n)\nhttps://t.co/NIrRx7grVO",
+                "username": "CristianGeo7",
+                "user_url": "https://twitter.com/CristianGeo7",
+                "user_image_url": "https://pbs.twimg.com/profile_images/954157494372388864/J3NmcmJF_normal.jpg",
+                "date": "2023-12-22T17:48:01Z"
+            },
+            {
+                "url": "https://twitter.com/BowTiedMara/status/1728469542056104303",
+                "text": "If you\u2019re curious about the joint ventures extracting oil and gas at Vaca Muerta right now, check out the interactive map below.\n\n$YPF, $PAM and $VIST are the main players from Argentina \ud83c\udde6\ud83c\uddf7, working together with many international oil companies.",
+                "username": "BowTiedMara",
+                "user_url": "https://twitter.com/BowTiedMara",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1609636645686452224/AorMa2xc_normal.jpg",
+                "date": "2023-11-25T17:43:46Z"
+            },
+            {
+                "url": "https://twitter.com/DuckPond_VR/status/1791346053716857172",
+                "text": "Howard Marks is betting on Argentina \ud83c\udde6\ud83c\uddf7. He has 3% of his portfolio invested in these companies \u2b07\ufe0f\n\n$VIST - Vista Oil &amp; Gas, S.A.B. de C.V.\n$TEO - Telecom Argentina S.A. \n$PAM - Pampa Energ\u00eda S.A. \n$YPF - YPF S.A.\n$BMA - Banco Macro S.A.",
+                "username": "DuckPond_VR",
+                "user_url": "https://twitter.com/DuckPond_VR",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1724130840202903552/EdWBzhRM_normal.jpg",
+                "date": "2024-05-17T05:52:35Z"
+            }
+        ],
+        "experts": []
+    },
+    "YPF": {
+        "chat_gpt": "YPF is Argentina's largest energy company, poised to benefit from increased foreign investment and market liberalization.",
+        "claude": "YPF is Argentina's largest oil and gas company, with extensive reserves and a dominant position in the domestic market. The company could benefit from increased investment in the energy sector and potential reforms to boost production and exports of hydrocarbons.",
+        "search_articles": [
+            {
+                "url": "https://www.investing.com/equities/argentina/most-active-stocks",
+                "title": "Most Active Argentina Stocks - Investing.com",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://companiesmarketcap.com/argentina/largest-companies-in-argentina-by-market-cap/",
+                "title": "Largest companies of Argentina by market capitalization",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.cnbc.com/2024/05/07/druckenmiller-says-he-bought-five-argentinian-stocks-praises-javier-mileis-policies.html",
+                "title": "Druckenmiller says he bought five Argentinian stocks ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/JonahLupton/status/1728064113316921572",
+                "text": "My entire watchlist is being dominated by the Argentina/South American stocks today... $YPF $GGAL $BMA $CEPU $TGS $BBAR $PAM \n\nI don't know anything about these companies so it's hard to feel comfortable trading them, I'm trying to not let the FOMO kick in.",
+                "username": "JonahLupton",
+                "user_url": "https://twitter.com/JonahLupton",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1683456114443137025/pix1OdaR_normal.jpg",
+                "date": "2023-11-24T14:52:45Z"
+            },
+            {
+                "url": "https://twitter.com/CristianGeo7/status/1738255081315733530",
+                "text": "\ud83d\udee2\ufe0f\ud83c\udde6\ud83c\uddf7 Global Conflicts Stir Sleeping Energy Giant in South America. Argentina\u2019s Vaca Muerta shale field is among the megaprojects ramping up around the region. $YPF $VIST $PAM (Link de WSJ q no pide suscripci\u00f3n)\nhttps://t.co/NIrRx7grVO",
+                "username": "CristianGeo7",
+                "user_url": "https://twitter.com/CristianGeo7",
+                "user_image_url": "https://pbs.twimg.com/profile_images/954157494372388864/J3NmcmJF_normal.jpg",
+                "date": "2023-12-22T17:48:01Z"
+            },
+            {
+                "url": "https://twitter.com/BowTiedMara/status/1728469542056104303",
+                "text": "If you\u2019re curious about the joint ventures extracting oil and gas at Vaca Muerta right now, check out the interactive map below.\n\n$YPF, $PAM and $VIST are the main players from Argentina \ud83c\udde6\ud83c\uddf7, working together with many international oil companies.",
+                "username": "BowTiedMara",
+                "user_url": "https://twitter.com/BowTiedMara",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1609636645686452224/AorMa2xc_normal.jpg",
+                "date": "2023-11-25T17:43:46Z"
+            }
+        ],
+        "experts": []
+    },
+    "GOLD": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.juniorminingnetwork.com/mining-stocks/argentina-mining-stocks.html",
+                "title": "List of Mining Companies in Argentina",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "BIOX": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "LND": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.cresud.com.ar/perfil_corporativo_inst.php?lng=en",
+                "title": "Corporate Profile",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "IBKR": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "XOM": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.trade.gov/country-commercial-guides/argentina-energy-oil-gas",
+                "title": "Argentina - Energy - Oil & Gas",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "CAAP": {
+        "chat_gpt": null,
+        "claude": "Corporaci\u00f3n Am\u00e9rica Airports is a leading airport concession operator in Argentina and other Latin American countries. The company could benefit from increased air travel and tourism as the economy opens up and global connections expand.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "DESP": {
+        "chat_gpt": null,
+        "claude": "Despegar.com is the largest online travel agency in Argentina and Latin America, offering flights, hotels, packages, and other travel services. The company could benefit from increased tourism and travel as the economy opens up and global connections expand.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "GLOB": {
+        "chat_gpt": null,
+        "claude": "Globant is an Argentine software and IT services company, with a global presence and a focus on digital transformation, artificial intelligence, and customer experience. The company could benefit from increased demand for technology services as businesses seek to modernize and compete in the global economy.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    }
+}
